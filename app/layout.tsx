@@ -15,8 +15,8 @@ import DynamicMain from "@/components/dynamic-main";
 const font = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rwaya Collection",
-  description: "Rwaya Collection",
+  title: "BagEnvy",
+  description: "BagEnvy",
 };
 
 export default function RootLayout({
